@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="AlpineSkiHouse2021" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\src\\git\\per\\prjs-cloud\\azure\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

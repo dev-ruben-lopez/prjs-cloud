@@ -1,0 +1,3 @@
+{
+  "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=tableapidemov2;AccountKey=RCJboPJF15C5QSniZDLYJiTdcB7cncfuDP48xKA84hYf71XMDWAGacqRm2lPcd43DgEcXMoM3DfuuquRU8mxXQ==;TableEndpoint=https://tableapidemov2.table.cosmos.azure.com:443/;"
+}
